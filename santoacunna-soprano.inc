@@ -14,7 +14,6 @@
 		\time 4/4
 		\clef "treble"
 		\key c \major
-
 		R1*2  |
 		e' 4 e' 8 e' 4. f' 8 e' ~  |
 		e' 8 c' 4. ( d' 4 e' )  |
@@ -23,8 +22,7 @@
 		g' 8 r4 g' g' 8 f' e'  |
 		f' 4 c' 2.  |
 		r4. g' 4 g' 8 f' e'  |
-		f' 4 e' 2 ( ~ e' 8 f' 16 e'
-		% warning: overlong bar truncated here |
+		f' 4 e' 2 ( ~ e' 8 f' 16 e'  |
 %% 10
 		d' 2. ) r4  |
 		e' 4 e' 8 e' 4. f' 8 e' ~  |
@@ -34,8 +32,7 @@
 %% 15
 		f' 4 c' 2.  |
 		r4 r8 g' 4 g' 8 f' e'  |
-		f' 4 e' 2 ( ~ e' 8 f' 16 e'
-		% warning: overlong bar truncated here |
+		f' 4 e' 2 ( ~ e' 8 f' 16 e'  |
 		d' 2. ) r4  |
 		r8 a' a' a' a' a' 4 a' 8 ~  |
 %% 20
@@ -45,8 +42,7 @@
 		f' 8 c' 2..  |
 		r4. g' 8 g' f' e' f' ~  |
 %% 25
-		f' 8 e' 2. ( f' 16 e'
-		% warning: overlong bar truncated here |
+		f' 8 e' 2. ( f' 16 e'  |
 		d' 2. ) r4  |
 		r4 r8 a' a' a' a' a' ~  |
 		a' 8 a' 4 a' a' 8 a' a'  |
@@ -65,8 +61,7 @@
 		f' 4 c' 2.  |
 %% 40
 		r4 r8 g' 4 g' 8 f' e'  |
-		f' 4 e' 2 ( ~ e' 8 f' 16 e'
-		% warning: overlong bar truncated here |
+		f' 4 e' 2 ( ~ e' 8 f' 16 e'  |
 		d' 2. ) r4  |
 		e' 4 e' 8 e' 4. f' 8 e' ~  |
 		e' 8 c' 4. ( d' 4 e' )  |
@@ -75,8 +70,7 @@
 		g' 8 r r g' 4 g' 8 f' e'  |
 		f' 4 c' 2.  |
 		r4 r8 g' 4 g' 8 f' e'  |
-		f' 4 e' 2 ( ~ e' 8 f' 16 e'
-		% warning: overlong bar truncated here |
+		f' 4 e' 2 ( ~ e' 8 f' 16 e'  |
 %% 50
 		d' 1  |
 		e' 1 )  |
